@@ -1,0 +1,6 @@
+framework module VVXXMediaPlayer {
+  umbrella header "VVXXMediaPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

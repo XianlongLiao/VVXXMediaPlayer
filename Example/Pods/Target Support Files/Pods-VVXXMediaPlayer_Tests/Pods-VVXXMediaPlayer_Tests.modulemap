@@ -1,0 +1,6 @@
+framework module Pods_VVXXMediaPlayer_Tests {
+  umbrella header "Pods-VVXXMediaPlayer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

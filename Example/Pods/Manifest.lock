@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - VVXXMediaPlayer (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - VVXXMediaPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  VVXXMediaPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  VVXXMediaPlayer: 7bc89cf8415775a03ce2822064489fbb8ef182e3
+
+PODFILE CHECKSUM: d5c290279f4235cd6b48dfafe24b0c395fc26c68
+
+COCOAPODS: 1.2.0
