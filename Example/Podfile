@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VVXXMediaPlayer_Example' do
+  pod 'VVXXMediaPlayer', :path => '../'
+
+  target 'VVXXMediaPlayer_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
