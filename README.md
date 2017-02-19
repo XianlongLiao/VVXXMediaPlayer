@@ -1,4 +1,5 @@
 # VVXXMediaPlayer
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/xianlong.liao@gmail.com/VVXXMediaPlayer.svg?style=flat)](https://travis-ci.org/xianlong.liao@gmail.com/VVXXMediaPlayer)
 [![Version](https://img.shields.io/cocoapods/v/VVXXMediaPlayer.svg?style=flat)](http://cocoapods.org/pods/VVXXMediaPlayer)
@@ -27,3 +28,6 @@ xianlong.liao@gmail.com, xianlong.liao@icaikee.com
 ## License
 
 VVXXMediaPlayer is available under the MIT license. See the LICENSE file for more info.
+=======
+测试一下
+>>>>>>> 408064b392b59069f481575c2da3d6ebf30e8bb7
