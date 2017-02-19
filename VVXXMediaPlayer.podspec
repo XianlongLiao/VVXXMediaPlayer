@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/xianlong.liao@gmail.com/VVXXMediaPlayer'
+  s.homepage         = 'https://github.com/XianlongLiao/VVXXMediaPlayer.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xianlong.liao@gmail.com' => 'xianlong.liao@icaikee.com' }
-  s.source           = { :git => 'https://github.com/xianlong.liao@gmail.com/VVXXMediaPlayer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/XianlongLiao/VVXXMediaPlayer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'VVXXMediaPlayer/Classes/**/*'
+  s.source_files = 'VVXXMediaPlayer/Example/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'VVXXMediaPlayer' => ['VVXXMediaPlayer/Assets/*.png']
